@@ -1,0 +1,9 @@
+C:\Users\stewa\source\repos\PasswordStorageSolution\Encrypt-Store\bin\Debug\netstandard2.0\EncryptStore.deps.json
+C:\Users\stewa\source\repos\PasswordStorageSolution\Encrypt-Store\bin\Debug\netstandard2.0\EncryptStore.dll
+C:\Users\stewa\source\repos\PasswordStorageSolution\Encrypt-Store\bin\Debug\netstandard2.0\EncryptStore.pdb
+C:\Users\stewa\source\repos\PasswordStorageSolution\Encrypt-Store\obj\Debug\netstandard2.0\EncryptStore.csprojAssemblyReference.cache
+C:\Users\stewa\source\repos\PasswordStorageSolution\Encrypt-Store\obj\Debug\netstandard2.0\EncryptStore.AssemblyInfoInputs.cache
+C:\Users\stewa\source\repos\PasswordStorageSolution\Encrypt-Store\obj\Debug\netstandard2.0\EncryptStore.AssemblyInfo.cs
+C:\Users\stewa\source\repos\PasswordStorageSolution\Encrypt-Store\obj\Debug\netstandard2.0\EncryptStore.csproj.CoreCompileInputs.cache
+C:\Users\stewa\source\repos\PasswordStorageSolution\Encrypt-Store\obj\Debug\netstandard2.0\EncryptStore.dll
+C:\Users\stewa\source\repos\PasswordStorageSolution\Encrypt-Store\obj\Debug\netstandard2.0\EncryptStore.pdb

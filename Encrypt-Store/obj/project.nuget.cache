@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tvWtNF4gbRaELA3AHH8wisX7XD53MvgcejEd+CR2+qx8O4pcr9qAgObrmljBU6cu0XroQIBZLRAdfLVhkJ/LPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stewa\\source\\repos\\PasswordStorageSolution\\Encrypt-Store\\EncryptStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stewa\\.nuget\\packages\\litedb\\5.0.10\\litedb.5.0.10.nupkg.sha512",
+    "C:\\Users\\stewa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\stewa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
